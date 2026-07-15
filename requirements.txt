@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+# optional, only if you wire in OpenAI for real reasoning:
+# openai
